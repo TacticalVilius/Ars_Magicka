@@ -1,0 +1,5 @@
+Python scripts to make life easier while playing the Ars Magicka role playing game.
+
+Allows me to cast spells and abilities without doing tedious calculations every time. Also lists all possible enhancements for each casting.
+
+Keeps track of all spells and has an interface for adding new spells. Allows searching for known spells by partial name.
